@@ -81,15 +81,6 @@ export const menuItems = [
     image: "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?auto=format&fit=crop&w=400&q=80",
   },
   {
-    id: "m10",
-    name: "Chicken Shawarma",
-    category: "Wraps",
-    price: 350,
-    prepTime: "10 min",
-    rating: 4.6,
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=400&q=80",
-  },
-  {
     id: "m11",
     name: "Iced Caramel Macchiato",
     category: "Drinks",
